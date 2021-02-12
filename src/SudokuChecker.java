@@ -51,21 +51,6 @@ public class SudokuChecker {
 		
 		
 		
-		int one = 0;
-		int two = 0;
-		int three = 0;
-		int four = 0;
-		int five = 0;
-		int six = 0;
-		int seven = 0;
-		int eight = 0;
-		int nine = 0;
-		
-		//Check for purpose
-		/*
-		 * for (int i = 0; i < puzzle.length; i++) { for (int j = 0; j < puzzle.length;
-		 * j++) { puzzle[i][j] = 0; } }
-		 */
 		
 		
 		//Check across
