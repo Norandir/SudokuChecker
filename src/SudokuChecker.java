@@ -31,7 +31,7 @@ public class SudokuChecker {
 		
 		System.out.println(checkPuzzle(puzzle, solution));
 	}
-	
+	//renamed to be more clear
 	public static int [][] checkPuzzle(int[][]puzzle, int[][]solution) {
 		int [][] bad1 = new int [9][9];
 		int [][] bad2 = new int [9][9];
